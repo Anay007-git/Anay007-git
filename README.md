@@ -44,12 +44,11 @@ I build data-driven solutions, intelligent applications, and scalable systems th
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anay007-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Anay007-git&theme=tokyonight&hide_border=true" />
+  <img src="./profile/stats.svg" width="75%" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anay007-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://streak-stats.demolab.com/?user=Anay007-git&theme=tokyonight&hide_border=true" width="75%" />
 </p>
 
 ---
