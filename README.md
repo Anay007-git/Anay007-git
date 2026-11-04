@@ -1,5 +1,18 @@
-# 💫 About Me:
-Hi, I'm Anay Biswas 👋<br><br>Senior BI Developer | Data Engineer | AI & Full-Stack Developer<br><br>I'm a technology professional passionate about transforming complex business problems into intelligent, data-driven solutions.<br><br>I specialize in Business Intelligence, Data Analytics, Data Engineering, and AI-powered application development. I enjoy building scalable dashboards, automating data workflows, developing intelligent reporting systems, and experimenting with LLM-powered applications.<br><br>What I Work With<br><br>Business Intelligence: Tableau, Power BI, Advanced SQL, Data Visualization<br><br>Programming: Python, JavaScript, TypeScript, React, Node.js<br><br>Data Engineering: ETL Pipelines, PostgreSQL, Pandas, AWS S3, AWS Glue, AWS RDS<br><br>AI & LLMs: Gemini, Genkit AI, LangChain, Natural Language to SQL, RAG<br><br>Cloud & DevOps: AWS, Docker, GitHub, CI/CD, Vercel<br><br>Tools: Git, JIRA, DBeaver, VS Code<br><br>Currently Exploring<br><br>Building AI-powered Business Intelligence platforms.<br><br>Natural Language to SQL (NL2SQL) applications.<br><br>Agentic AI and LLM-powered business automation.<br><br>Scalable data pipelines and modern data architectures.<br><br>Production-ready SaaS applications.<br><br>My Philosophy<br><br>I believe technology should solve real-world problems, simplify decision-making, and create measurable business value.<br><br>I'm always learning, building, experimenting, and turning ideas into working products.<br><br>Let's Connect<br><br>LinkedIn: Add your LinkedIn URL<br><br>Portfolio: Add your portfolio URL<br><br>Building solutions where Data meets Intelligence.
+# Hi, I'm Anay Biswas 👋
+
+**Senior BI Developer | Data Engineer | AI Enthusiast**
+
+I'm passionate about building data-driven solutions and intelligent applications that solve real-world business problems.
+
+- **BI & Analytics:** Tableau, Power BI, SQL
+- **Programming:** Python, JavaScript, TypeScript, React, Node.js
+- **Data Engineering:** ETL, PostgreSQL, Pandas, AWS (S3, Glue, RDS)
+- **AI & LLMs:** Gemini, Genkit, LangChain, RAG, NL2SQL
+- **Cloud & DevOps:** Docker, GitHub, CI/CD, Vercel
+
+Currently exploring AI-powered business intelligence, intelligent automation, and scalable SaaS applications.
+
+**Building at the intersection of Data, AI & Technology.**
 
 
 ## 🌐 Socials:
